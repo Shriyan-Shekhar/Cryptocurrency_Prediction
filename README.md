@@ -55,3 +55,5 @@ Time Interval: 1h, 1d </br>
 Sequence In Length: 168 (24 hours 7 days) for 1h, and 7 for 1d </br>
 Optimizer: AdamW </br>
 Horizon: 3 (default) </br>
+
+Original Github Repo to Find our Commits: https://github.com/hugotang124/COMP4222_GroupProject
